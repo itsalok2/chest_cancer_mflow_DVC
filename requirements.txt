@@ -1,0 +1,16 @@
+pandas
+gdown
+dvc
+mlflow
+notebook
+numpy
+matplotlib
+seaborn
+networkx
+pyyaml
+tqdm
+joblib
+scipy
+flask
+flask-cors
+-e .
